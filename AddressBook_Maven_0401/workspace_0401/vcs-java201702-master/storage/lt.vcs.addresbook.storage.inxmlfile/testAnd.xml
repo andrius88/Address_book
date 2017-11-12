@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addresBook>
+    <addres id="1" name="VardasA" phone="+37069823101" email="vardas.a@email.com"/>
+    <addres id="2" name="VardasB" phone="+37069823102" email="vardas.b@email.com"/>
+</addresBook>

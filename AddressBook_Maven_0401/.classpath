@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/lt.vcs.addressbook.api/src/main/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/mysql-connector-java-5.1.39/src"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addresbook.storage.indbutils/src/main/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addresbook.storage.indbutils/src/test/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addresbook.storage.inmemory/src/main/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addresbook.storage.inxmlfile/src/main/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addresbook.storage.inxmlfile/src/test/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addressbook.storage.javasqlconnection/src/main/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addressbook.storage.persistence/src/main/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/storage/lt.vcs.addressbook.storage.persistence/src/test/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/ui/lt.vcs.addresbook.ui.console/src/main/java"/>
+	<classpathentry kind="src" path="workspace_0401/vcs-java201702-master/ui/lt.vcs.addresbook.ui.swing/src/main/java"/>
+	<classpathentry kind="lib" path="workspace_0401/vcs-java201702-master/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="workspace_0401/vcs-java201702-master/lt.vcs.addressbook.api/target/classes"/>
+</classpath>

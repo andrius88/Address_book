@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;lt.vcs.addresbook.ui.console&apos;" deleteContents="false" description="Delete resource &apos;lt.vcs.addresbook.ui.console&apos;" element1="/lt.vcs.addresbook.ui.console" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1491128771177"/>
+</session>

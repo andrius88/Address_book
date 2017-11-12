@@ -1,0 +1,110 @@
+2017-06-25 15:57:17,673 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-06-25 15:58:02,886 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addressbook.api:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\lt.vcs.addressbook.api\pom.xml.
+2017-06-25 15:58:03,010 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: AddressBookModular:storage:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\storage\pom.xml.
+2017-06-25 15:58:03,076 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: AddressBookModular:ui:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\ui\pom.xml.
+2017-06-25 15:58:03,083 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: AddressBookModular:AddressBookModular:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\pom.xml.
+2017-06-25 15:58:07,069 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addresbook.storage.indbutils:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\storage\lt.vcs.addresbook.storage.indbutils\pom.xml.
+2017-06-25 15:58:07,579 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:07,588 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:07,602 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:07,604 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:08,072 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addresbook.storage.inmemory:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\storage\lt.vcs.addresbook.storage.inmemory\pom.xml.
+2017-06-25 15:58:08,228 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:08,230 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:08,235 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:08,236 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:08,680 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addresbook.storage.inxmlfile:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\storage\lt.vcs.addresbook.storage.inxmlfile\pom.xml.
+2017-06-25 15:58:08,776 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact javax.xml:jaxb-api:jar:2.1 has been relocated to javax.xml.bind:jaxb-api:jar:2.1
+2017-06-25 15:58:08,894 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:08,896 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:08,902 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:08,905 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:09,405 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addresbook.ui.console:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\ui\lt.vcs.addresbook.ui.console\pom.xml.
+2017-06-25 15:58:09,445 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for AddressBookModular:lt.vcs.addressbook.storage.javasqlconnection:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-06-25 15:58:09,751 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:09,753 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 15:58:09,755 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:09,757 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 15:58:10,010 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addresbook.ui.swing:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\ui\lt.vcs.addresbook.ui.swing\pom.xml.
+2017-06-25 15:58:10,291 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:10,293 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:10,295 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:10,296 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\ui\lt.vcs.addresbook.ui.swing\src\test\resources
+2017-06-25 15:58:10,788 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:10,790 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:10,795 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:10,798 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:10,951 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addressbook.storage.javasqlconnection:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\storage\lt.vcs.addressbook.storage.javasqlconnection\pom.xml.
+2017-06-25 15:58:11,082 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addresbook.ui.console:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\ui\lt.vcs.addresbook.ui.console\pom.xml.
+2017-06-25 15:58:11,310 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:11,311 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 15:58:11,313 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:11,315 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 15:58:11,536 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AddressBookModular:lt.vcs.addressbook.storage.persistence:0.0.1-SNAPSHOT @ C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\storage\lt.vcs.addressbook.storage.persistence\pom.xml.
+2017-06-25 15:58:11,908 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:11,910 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:11,927 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:11,930 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-25 15:58:13,311 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:13,319 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:13,321 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:13,323 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\ui\lt.vcs.addresbook.ui.swing\src\test\resources
+2017-06-25 15:58:13,645 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:13,647 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:13,652 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:13,677 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:14,011 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact javax.xml:jaxb-api:jar:2.1 has been relocated to javax.xml.bind:jaxb-api:jar:2.1
+2017-06-25 15:58:14,057 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,059 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:14,064 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,067 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:14,358 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,361 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:14,366 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,368 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:14,564 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,565 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 15:58:14,567 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,568 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-25 15:58:14,932 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,935 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-25 15:58:14,937 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-25 15:58:14,971 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-17 10:21:10,624 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-17 10:21:14,789 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:14,798 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:14,833 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:14,835 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:14,962 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:14,965 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:14,967 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:14,969 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrius\workspace_04.01\AddressBook_Maven_0401\workspace_0401\vcs-java201702-master\ui\lt.vcs.addresbook.ui.swing\src\test\resources
+2017-10-17 10:21:15,791 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:15,874 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:15,926 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:15,928 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:16,785 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact javax.xml:jaxb-api:jar:2.1 has been relocated to javax.xml.bind:jaxb-api:jar:2.1
+2017-10-17 10:21:16,829 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:16,831 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:16,838 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:16,841 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:17,536 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:17,538 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:17,578 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:17,580 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:18,053 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:18,056 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-17 10:21:18,058 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:18,066 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-17 10:21:18,619 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:18,621 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-17 10:21:18,623 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:18,625 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-17 10:21:19,264 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:19,266 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-17 10:21:19,273 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1257 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-17 10:21:19,275 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-10-17 10:26:46,190 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact javax.xml:jaxb-api:jar:2.1 has been relocated to javax.xml.bind:jaxb-api:jar:2.1
+2017-10-17 11:42:18,163 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact javax.xml:jaxb-api:jar:2.1 has been relocated to javax.xml.bind:jaxb-api:jar:2.1
+2017-10-20 21:45:27,341 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-21 08:21:01,459 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

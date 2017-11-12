@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 11 resources" deleteContents="false" description="Delete 11 resources" element1="/lt.vcs.addresbook.storage.indbutils" element10="/ui" element11="/vcs-java201702-master" element2="/lt.vcs.addresbook.storage.inmemory" element3="/lt.vcs.addresbook.storage.inxmlfile" element4="/lt.vcs.addresbook.ui.console" element5="/lt.vcs.addresbook.ui.swing" element6="/lt.vcs.addressbook.api" element7="/lt.vcs.addressbook.storage.javasqlconnection" element8="/lt.vcs.addressbook.storage.persistence" element9="/storage" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="11" stamp="1510480839910"/>
+</session>
